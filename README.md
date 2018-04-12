@@ -1,2 +1,2 @@
-# School-Management-System-in-C-
+# School-Management-System-in-C#
 School Management is an online School Management system. It mainly design for School Authority to maintain their School Activity. It has registration for Teacher and Student both. Only registered Student and Teacher info can be added. School Authority can manage other activity like Attendance, Class, Exam, Section, Send SMS, School Time management, Subject, . User can also print report of a particular student or teacher. Admin can entry student result etc.
